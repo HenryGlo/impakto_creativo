@@ -747,7 +747,7 @@ a.theme-btn.style-five:hover {
     left: -10vw;
     position: absolute;
     transform: rotate(5deg);
-    background: var(--yellow-color);
+    background: #ffde59 !important;
 }
 
 /****************************************************** */
@@ -940,7 +940,7 @@ a.theme-btn.style-five:hover {
 .hero-about-bg {
     z-index: -1;
     left: 0;
-    top: -555px;
+    top: -800px;
     width: 100%;
     position: absolute;
 }
